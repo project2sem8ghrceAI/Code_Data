@@ -10,44 +10,5 @@ The rapid increase in the use of computer systems and the internet has led to a 
 
 # Packages used
 
-// For pre-processing
+![image](https://user-images.githubusercontent.com/126545550/231525536-3a1e1626-7770-4662-af3f-444febb1271a.png)
 
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
-
-from sklearn.compose import ColumnTransformer
-
-// For splitting data into training and testing
-
-from sklearn.model_selection import train_test_split
-
-// metrics for calculations
-
-from sklearn.metrics import mean_squared_error, r2_score,mean_absolute_error
-
-// various machine learning models
-
-from sklearn.neighbors import KNeighborsRegressor
-
-from sklearn.tree import DecisionTreeRegressor
-
-from sklearn.ensemble import RandomForestRegressor,AdaBoostRegressor
-
-from sklearn.svm import SVR
-
-from sklearn.linear_model import LinearRegression, Ridge,Lasso
-
-from catboost import CatBoostRegressor
-
-from xgboost import XGBRegressor
-
-// for data visualization 
-
-import matplotlib.pyplot as plt
-
-import seaborn as sns
-
-// for hyperParameterTuning
-
-from sklearn.model_selection import RandomizedSearchCV
-
-from sklearn.model_selection import GridSearchCV
