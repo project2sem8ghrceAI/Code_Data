@@ -8,7 +8,4 @@ Malware is a serious threat to the security of computer systems, and traditional
 
 The rapid increase in the use of computer systems and the internet has led to a rise in the number of malware attacks. Malware refers to malicious software that is designed to harm computer systems or steal sensitive information from them. Malware can be spread through various means, such as email attachments, downloads from the internet, or through vulnerabilities in software. In recent years, machine learning has shown great promise in various fields, including malware detection. Machine learning models can learn the features of malware samples and classify them into different categories.
 
-# Packages used
-
-![image](https://user-images.githubusercontent.com/126545550/231525536-3a1e1626-7770-4662-af3f-444febb1271a.png)
 
